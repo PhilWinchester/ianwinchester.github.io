@@ -34,8 +34,8 @@ div h2 {
   position: relative;
   height: 95vh;
   width: 97vw;
-  background-color: forestgreen;
-  background-color: rgba(34,139,34,.2);
+  /*background-color: dodgerblue;*/
+  background-color: rgba(30,144,255,.2);
 }
 .hidden {
   display: none;
