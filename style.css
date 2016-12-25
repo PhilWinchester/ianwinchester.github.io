@@ -1,3 +1,42 @@
 body {
-  background-color: firebrick;
+  background-color: #FAFAFA;
+  background: url('http://wallpapercave.com/wp/lg70DMk.jpg') no-repeat center center fixed;
+  /*background: url('http://i.imgur.com/1yyiL.gif') no-repeat center center fixed;*/
+  background-size: cover;
+  color: #EAEAEA;
+}
+.land-nav{
+  width: 100vw;
+  height: 100vh;
+  background: url('http://i.imgur.com/1yyiL.gif') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+div h1 {
+  /*color: #222;*/
+  font-size: 72px;
+  font-weight: bold;
+  text-shadow: 0 2px 2px #222;
+}
+div h4 {
+  /*color: #222;*/
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow: 0 2px 2px #222;
+}
+div h2 {
+  text-shadow: 0 2px 2px #222;
+}
+.talents{
+  position: relative;
+  height: 95vh;
+  width: 97vw;
+  background-color: forestgreen;
+  background-color: rgba(34,139,34,.2);
+}
+.hidden {
+  display: none;
 }
